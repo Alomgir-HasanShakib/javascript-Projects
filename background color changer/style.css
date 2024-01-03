@@ -1,0 +1,32 @@
+h2 {
+  width: 50%;
+  align-items: center;
+  margin: auto;
+padding-left: 200px;}
+.container {
+  width: 50%;
+  margin: auto;
+  align-items: center;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  border: 1px solid black;
+}
+#grey{
+    background: grey;
+}
+#blue{
+    background: blue;
+}
+#yellow{
+    background:yellow;
+}
+#orange{
+    background: orange;
+}
